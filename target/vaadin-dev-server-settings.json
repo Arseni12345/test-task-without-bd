@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "C:/Users/arseni/IdeaProjects/test-task-without-bd/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/arseni/IdeaProjects/test-task-without-bd/target/flow-frontend",
+  "staticOutput": "C:/Users/arseni/IdeaProjects/test-task-without-bd/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "C:\\Users\\arseni\\IdeaProjects\\test-task-without-bd\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\arseni\\IdeaProjects\\test-task-without-bd\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
